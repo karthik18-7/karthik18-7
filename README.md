@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on some basic html webpages
 - 📫 How to reach me just send a request and i will look when i have time
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm still 17 years old
 - I'm still learning how to code and would appreciate some adive on how to move from here on
 
